@@ -49,4 +49,4 @@ I will release the material gradually, only once I have personally used, but gen
 
 * PS you will see referenced in the documentation the "what" of the "engineering" part of the workshop, but will not bother you with what is relevant just for my hardware- leaving inside only refactoring and some exercises with a wider audience.
 
-* 
+Enjoy!
