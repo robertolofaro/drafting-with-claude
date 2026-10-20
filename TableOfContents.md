@@ -17,6 +17,7 @@ Instead, will add just a few lines on each to describe the concept that represen
 | [Jira-DotProject](https://github.com/robertolofaro/drafting-with-claude/tree/master/Jira-DotProject) | Extracting project/program/change status information and tracking auditable progress | My experience since the 1980s on similar activities |
 | [MorningNewsDashboard](https://github.com/robertolofaro/drafting-with-claude/tree/master/MorningNewsDashboard) | Analyzing the MorningNews daily publications and associated trends | Executive Information Systems in the 1980s, dashboards since then- including a "replicant" of signal dashboard (e.g. COVID, Palantir) |
 | [StratBPR](https://github.com/robertolofaro/drafting-with-claude/tree/master/StratBPR) | Helping in assessing status of organizations and identifying development/restructuring scenarios | Used in the 1990s, and activities on organizational and business development since then |
+| [learning-journey](https://github.com/robertolofaro/drafting-with-claude/tree/master/learning-journey) | Sharing a custom workshop created with AIs to learn Claude in a structured way via theory and practice, with exercises and proposed solutions |
 
 
 ## 1. Wby Jira and DotProject
